@@ -6,6 +6,7 @@ func helloWorld() {
 
 helloWorld()
 print("____________________________")
+
 func printHi(name: String) {
     print("Hello, \(name)!")
 }
