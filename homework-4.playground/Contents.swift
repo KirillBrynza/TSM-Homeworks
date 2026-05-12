@@ -13,7 +13,7 @@ func printHi(name: String) {
 
 printHi(name: "Иван")
 print("____________________________")
-func getHello (name: String) -> String {
+func getHello(name: String) -> String {
     return "Hello, \(name)!"
 }
 
