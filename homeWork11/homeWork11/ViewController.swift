@@ -58,7 +58,11 @@ final class ViewController: UIViewController {
 
     // MARK: - Layout линии кнопок
 
-    private func setupLayout() {
+    struct ButtonStyle {
+        let title: String
+        let bgColor: UIColor
+        let fontColor: UIColor
+    }
 
         // линия первая
         let clearButton = makeButton(
