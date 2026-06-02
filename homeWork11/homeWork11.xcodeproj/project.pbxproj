@@ -7,19 +7,32 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		F8CD006E2FC5FD81006C3586 /* homework-9.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "homework-9.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F811929E2FCB88ED00A05C4F /* homeWork11.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = homeWork11.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		F81192B02FCB88EF00A05C4F /* Exceptions for "homeWork11" folder in "homeWork11" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = F811929D2FCB88ED00A05C4F /* homeWork11 */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		F8CD00702FC5FD81006C3586 /* homework-9 */ = {
+		F81192A02FCB88ED00A05C4F /* homeWork11 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "homework-9";
+			exceptions = (
+				F81192B02FCB88EF00A05C4F /* Exceptions for "homeWork11" folder in "homeWork11" target */,
+			);
+			path = homeWork11;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F8CD006B2FC5FD81006C3586 /* Frameworks */ = {
+		F811929B2FCB88ED00A05C4F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +42,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F8CD00652FC5FD81006C3586 = {
+		F81192952FCB88ED00A05C4F = {
 			isa = PBXGroup;
 			children = (
-				F8CD00702FC5FD81006C3586 /* homework-9 */,
-				F8CD006F2FC5FD81006C3586 /* Products */,
+				F81192A02FCB88ED00A05C4F /* homeWork11 */,
+				F811929F2FCB88ED00A05C4F /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F8CD006F2FC5FD81006C3586 /* Products */ = {
+		F811929F2FCB88ED00A05C4F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F8CD006E2FC5FD81006C3586 /* homework-9.app */,
+				F811929E2FCB88ED00A05C4F /* homeWork11.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +61,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F8CD006D2FC5FD81006C3586 /* homework-9 */ = {
+		F811929D2FCB88ED00A05C4F /* homeWork11 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F8CD00812FC5FD82006C3586 /* Build configuration list for PBXNativeTarget "homework-9" */;
+			buildConfigurationList = F81192B12FCB88EF00A05C4F /* Build configuration list for PBXNativeTarget "homeWork11" */;
 			buildPhases = (
-				F8CD006A2FC5FD81006C3586 /* Sources */,
-				F8CD006B2FC5FD81006C3586 /* Frameworks */,
-				F8CD006C2FC5FD81006C3586 /* Resources */,
+				F811929A2FCB88ED00A05C4F /* Sources */,
+				F811929B2FCB88ED00A05C4F /* Frameworks */,
+				F811929C2FCB88ED00A05C4F /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				F8CD00702FC5FD81006C3586 /* homework-9 */,
+				F81192A02FCB88ED00A05C4F /* homeWork11 */,
 			);
-			name = "homework-9";
+			name = homeWork11;
 			packageProductDependencies = (
 			);
-			productName = "homework-9";
-			productReference = F8CD006E2FC5FD81006C3586 /* homework-9.app */;
+			productName = homeWork11;
+			productReference = F811929E2FCB88ED00A05C4F /* homeWork11.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F8CD00662FC5FD81006C3586 /* Project object */ = {
+		F81192962FCB88ED00A05C4F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2620;
 				LastUpgradeCheck = 2620;
 				TargetAttributes = {
-					F8CD006D2FC5FD81006C3586 = {
+					F811929D2FCB88ED00A05C4F = {
 						CreatedOnToolsVersion = 26.2;
 					};
 				};
 			};
-			buildConfigurationList = F8CD00692FC5FD81006C3586 /* Build configuration list for PBXProject "homework-9" */;
+			buildConfigurationList = F81192992FCB88ED00A05C4F /* Build configuration list for PBXProject "homeWork11" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = F8CD00652FC5FD81006C3586;
+			mainGroup = F81192952FCB88ED00A05C4F;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = F8CD006F2FC5FD81006C3586 /* Products */;
+			productRefGroup = F811929F2FCB88ED00A05C4F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F8CD006D2FC5FD81006C3586 /* homework-9 */,
+				F811929D2FCB88ED00A05C4F /* homeWork11 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F8CD006C2FC5FD81006C3586 /* Resources */ = {
+		F811929C2FCB88ED00A05C4F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +128,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F8CD006A2FC5FD81006C3586 /* Sources */ = {
+		F811929A2FCB88ED00A05C4F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +138,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		F8CD00822FC5FD82006C3586 /* Debug */ = {
+		F81192B22FCB88EF00A05C4F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -133,18 +146,18 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "homework-9/Info.plist";
+				INFOPLIST_FILE = homeWork11/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 18.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.brynza.homework-9";
+				PRODUCT_BUNDLE_IDENTIFIER = com.brynza.homeWork11;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -156,7 +169,7 @@
 			};
 			name = Debug;
 		};
-		F8CD00832FC5FD82006C3586 /* Release */ = {
+		F81192B32FCB88EF00A05C4F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -164,18 +177,18 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "homework-9/Info.plist";
+				INFOPLIST_FILE = homeWork11/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 18.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.brynza.homework-9";
+				PRODUCT_BUNDLE_IDENTIFIER = com.brynza.homeWork11;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -187,7 +200,7 @@
 			};
 			name = Release;
 		};
-		F8CD00842FC5FD82006C3586 /* Debug */ = {
+		F81192B42FCB88EF00A05C4F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -250,7 +263,7 @@
 			};
 			name = Debug;
 		};
-		F8CD00852FC5FD82006C3586 /* Release */ = {
+		F81192B52FCB88EF00A05C4F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -309,25 +322,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F8CD00692FC5FD81006C3586 /* Build configuration list for PBXProject "homework-9" */ = {
+		F81192992FCB88ED00A05C4F /* Build configuration list for PBXProject "homeWork11" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F8CD00842FC5FD82006C3586 /* Debug */,
-				F8CD00852FC5FD82006C3586 /* Release */,
+				F81192B42FCB88EF00A05C4F /* Debug */,
+				F81192B52FCB88EF00A05C4F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F8CD00812FC5FD82006C3586 /* Build configuration list for PBXNativeTarget "homework-9" */ = {
+		F81192B12FCB88EF00A05C4F /* Build configuration list for PBXNativeTarget "homeWork11" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F8CD00822FC5FD82006C3586 /* Debug */,
-				F8CD00832FC5FD82006C3586 /* Release */,
+				F81192B22FCB88EF00A05C4F /* Debug */,
+				F81192B32FCB88EF00A05C4F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = F8CD00662FC5FD81006C3586 /* Project object */;
+	rootObject = F81192962FCB88ED00A05C4F /* Project object */;
 }
