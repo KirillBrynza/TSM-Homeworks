@@ -10,9 +10,22 @@
 		F8CD006E2FC5FD81006C3586 /* homework-9.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "homework-9.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		F8CD00802FC5FD82006C3586 /* Exceptions for "homework-9" folder in "homework-9" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = F8CD006D2FC5FD81006C3586 /* homework-9 */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		F8CD00702FC5FD81006C3586 /* homework-9 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				F8CD00802FC5FD82006C3586 /* Exceptions for "homework-9" folder in "homework-9" target */,
+			);
 			path = "homework-9";
 			sourceTree = "<group>";
 		};
